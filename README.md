@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Teboho Motholo
-- 👀 I’m interested in data emgineering
+- 👀 I’m interested in data engineering
 - 🌱 I’m currently learning how to develop websites.
 - 💞️ I’m looking to collaborate on website development.
 - 📫 How to reach me @MotholoTeboho(Facebook & Twitter)
